@@ -149,4 +149,4 @@ if __name__ == "__main__":
     metadata_dict_to_file(metadata_dict_ext, dep_file_name)
 
 # Esay start example
-# python wls.py --src_pkg_server "pkg-ttm.moex.com" --src_repo "snapshots" --dst_repo "SPECTRA65_drop1" --out_dep_file "./sda.txt"
+# python wls.py --src_pkg_server "pkg.examle.com" --src_repo "snapshots" --dst_repo your_dest_repo" --out_dep_file "./sda.txt"
